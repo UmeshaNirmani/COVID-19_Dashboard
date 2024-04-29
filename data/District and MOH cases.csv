@@ -1,211 +1,211 @@
-Province,District,MOH/QC/Camp,cases,latitude,longitude
-Western,Colombo,Battaramulla,1080,6.900299,79.922136
-Western,Colombo,Boralesgamuwa,1697,6.8425,79.9006
-Western,Colombo,Dehiwala,2020,6.856387,79.865156
-Western,Colombo,Hanwella,2675,6.905988,80.083333
-Western,Colombo,Homagama,1654,6.85685,80.005384
-Western,Colombo,Kaduwela,1961,6.930497,79.984817
-Western,Colombo,Kolonnawa,1715,6.933035,79.888095
-Western,Colombo,Maharagama,1743,6.843401,79.932766
-Western,Colombo,Moratuwa,1990,6.7733,79.8825
-Western,Colombo,Nugegoda,1146,6.877563,79.886231
-Western,Colombo,Padukka,1054,6.837834,80.090301
-Western,Colombo,Piliyandala,2204,6.7981,79.9264
-Western,Gampaha,Attanagalla,1849,7.1119,80.1328
-Western,Gampaha,Biyagama,3281,6.9408,79.9889
-Western,Gampaha,Divulapitiya,1598,7.2167,80.0156
-Western,Gampaha,Dompe,1727,6.949806,80.055083
-Western,Gampaha,Ja-ela,1857,7.076147,79.894932
-Western,Gampaha,Katana,833,7.2517,79.9078
-Western,Gampaha,Kelaniya,2758,6.956357,79.921431
-Western,Gampaha,Minuwangoda,2044,7.176455,79.954904
-Western,Gampaha,Mirigama,971,7.2414,80.1325
-Western,Gampaha,Negombo,2609,7.2086,79.8358
-Western,Gampaha,Ragama,1985,7.025281,79.917386
-Western,Gampaha,Seeduwa,2180,7.132059,79.885024
-Western,Gampaha,Wattala,2387,6.990037,79.892207
-Western,Kaluthara,Agalawatta,681,6.541499,80.155785
-Western,Kaluthara,Bandaragama,1523,6.710264,79.986087
-Western,Kaluthara,Bulathsinhala,980,6.666199,80.164896
-Western,Kaluthara,Dodangoda,228,6.555952,80.006847
-Western,Kaluthara,Horana,1639,6.719389,80.061557
-Western,Kaluthara,Ingiriya,585,6.7296,80.0604
-Western,Kaluthara,Millaniya,550,6.686206,80.017227
-Western,Kaluthara,Panadura,2224,6.7133,79.9042
-Western,Kaluthara,Wadduwa,902,6.667121,79.924051
-Western,NIHS,Beruwala,1712,6.4739,79.9842
-North Western,Kurunegala,Alawwa,383,7.2875,80.2536
-North Western,Kurunegala,Ambanpola,239,7.915973,80.237512
-North Western,Kurunegala,Bamunukotuwa,152,7.8667,80.2167
-North Western,Kurunegala,Bingiriya,185,7.605177,79.921996
-North Western,Kurunegala,Galgamuwa,200,7.995468,80.267527
-North Western,Kurunegala,Ibbagamuwa,272,7.675,80.3667
-North Western,Kurunegala,Kobeigane,53,7.656731,80.120999
-North Western,Kurunegala,Kotawehera,46,7.7911,80.1023
-North Western,Kurunegala,Kurunegala,1745,7.4867,80.3647
-North Western,Kurunegala,Maho,182,7.8228,80.2778
-North Western,Kurunegala,Mawathagama,421,7.409691,80.315775
-North Western,Kurunegala,Narammala,507,7.431387,80.206159
-North Western,Kurunegala,Nikaweratiya,413,7.747585,80.115201
-North Western,Kurunegala,Pannala,866,6.4833,80
-North Western,Kurunegala,Polgahawela,356,7.332765,80.295285
-North Western,Kurunegala,Polpithigama,193,7.8142,80.4042
-North Western,Kurunegala,Udubaddawa,139,7.4828,79.9753
-North Western,Kurunegala,Wariyapola,319,7.628694,80.235989
-North Western,Puttalam,Anamaduwa,143,7.881625,80.00353
-North Western,Puttalam,Chilaw,617,7.5758,79.7953
-North Western,Puttalam,Dankotuwa,569,7.300443,79.88505
-North Western,Puttalam,Kalpitiya,95,8.2333,79.7667
-North Western,Puttalam,Karuwalagaswewa,18,8.037625,79.94267
-North Western,Puttalam,Madampe,225,7.5,79.8333
-North Western,Puttalam,Mahawewa,66,7.5167,79.9167
-North Western,Puttalam,Nattandiya,736,7.4086,79.8683
-North Western,Puttalam,Pallama,97,7.681225,79.918239
-North Western,Puttalam,Puttalam,115,8.043613,79.841209
-North Western,Puttalam,Wennappuwa,377,7.35048,79.850112
-Central,Kandy,Akurana,366,7.637034,80.023362
-Central,Kandy,Doluwa,44,7.621516,80.418833
-Central,Kandy,Galagedara,71,7.369716,80.520308
-Central,Kandy,Hasalaka,124,7.5667,80.625
-Central,Kandy,Kundasale,767,7.2667,80.6833
-Central,Kandy,Menikhinna,422,7.3167,80.7
-Central,Kandy,Panvila,106,7.0667,80.6833
-Central,Matale,Dambulla,506,7.868039,80.646464
-Central,Matale,Galewela,398,7.759807,80.56744
-Central,Matale,Naula,243,7.708132,80.652321
-Central,Matale,Pallepola,152,7.620686,80.600466
-Central,Matale,Rattota,341,7.5217,80.6847
-Central,Matale,Ukuwela,650,7.423917,80.62996
-Central,Matale,Wilgamuwa,80,7.3667,80.2
-Central,Matale,Yatawatta,145,7.562698,80.578361
-Central,Nuwaraeliya,Hanguranketha,228,7.1517,80.7118
-Central,Nuwaraeliya,Kotagala,189,7.45,80.2333
-Central,Nuwaraeliya,Lindula,243,6.920326,80.684129
-Central,Nuwaraeliya,Maskeliya,88,6.831379,80.568585
-Central,Nuwaraeliya,Nawathispane,220,7.0333,80.5
-Central,Nuwaraeliya,Walapane,190,7.091924,80.860522
-Sabaragamuwa,Kegalle,Bulathkohupitiya,129,7.105994,80.338761
-Sabaragamuwa,Kegalle,Deraniyagala,193,6.932387,80.335039
-Sabaragamuwa,Kegalle,Mawanella,182,7.244446,80.439045
-Sabaragamuwa,Kegalle,Rambukkana,177,7.323016,80.391856
-Sabaragamuwa,Kegalle,Ruwanwella,337,7.048852,80.2561
-Sabaragamuwa,Kegalle,Warakapola,403,7.230053,80.196768
-Sabaragamuwa,Ratnapura,Ayagama,154,6.63662,80.317329
-Sabaragamuwa,Ratnapura,Balangoda,280,6.661743,80.69371
-Sabaragamuwa,Ratnapura,Eheliyagoda,1027,6.85,80.2667
-Sabaragamuwa,Ratnapura,Elapatha,184,6.66081,80.366828
-Sabaragamuwa,Ratnapura,Godakawela,209,6.505599,80.647268
-Sabaragamuwa,Ratnapura,Imbulpe,144,6.7159,80.6375
-Sabaragamuwa,Ratnapura,Kalawana,512,6.531595,80.407285
-Sabaragamuwa,Ratnapura,Kiriella,364,6.753583,80.265838
-Sabaragamuwa,Ratnapura,Kolonna,110,6.404095,80.681552
-Sabaragamuwa,Ratnapura,Kuruwita,691,6.7792,80.3686
-Sabaragamuwa,Ratnapura,Opanayaka,102,6.608359,80.625134
-Sabaragamuwa,Ratnapura,Weligepola,76,6.567212,80.707078
-Northern,Kilinochchi,Poonakary,53,9.5035013,80.2111173
-Eastern,Ampara,Damana,83,7.8417,80.5797
-Eastern,Ampara,Lahugala,10,7.415566,81.33954
-Eastern,Ampara,Mahaoya,27,7.535248,81.351145
-Eastern,Ampara,Uhana,96,7.363281,81.637746
-Eastern,Batticaloa,Eravur,74,7.768518,81.619817
-Eastern,Batticaloa,Kiran,32,7.866841,81.529737
-Eastern,Batticaloa,Oddamavadi,53,7.9167,81.5167
-Eastern,Batticaloa,Vakarai,6,8.165968,81.415623
-Eastern,Batticaloa,Valaichenai,65,7.7,81.6
-Eastern,Kalmunai,Akkaraipattu,380,7.2167,81.85
-Eastern,Kalmunai,Irakkamam,213,7.1125,81.8542
-Eastern,Kalmunai,Navithanveli,26,7.4333,81.7833
-Eastern,Kalmunai,Pottuvil,91,6.8667,81.8333
-Eastern,Kalmunai,Sainthamaruthu,83,7.3833,81.8333
-Eastern,Kalmunai,Samanthurai,60,7.3833,81.8333
-Eastern,Trincomalee,Gomarankadawala,21,8.677731,80.960417
-Eastern,Trincomalee,Kinniya,164,8.497717,81.179214
-Eastern,Trincomalee,Kuchchaveli,65,8.792709,81.036113
-North Central,Anuradhapura,Galenbindunuwewa,40,8.5833,80.55
-North Central,Anuradhapura,Galnewa,21,8.2,80.3667
-North Central,Anuradhapura,Kahatagasdigiliya,26,8.4167,80.6833
-North Central,Anuradhapura,Kebithigollewa,9,8.5333,80.4833
-North Central,Anuradhapura,Kekirawa,108,8.037462,80.59801
-North Central,Anuradhapura,Mahawilachchiya,20,8.2814,80.4588
-North Central,Anuradhapura,Medawachchiya,63,8.540822,80.495957
-North Central,Anuradhapura,Nachchaduwa,4,8.2667,80.4667
-North Central,Anuradhapura,Nochchiyagama,71,8.266802,80.20823
-North Central,Anuradhapura,Padaviya,11,8.5595,80.5476
-North Central,Anuradhapura,Palagala,34,7.4667,80.1333
-North Central,Anuradhapura,Palugaswewa,2,8.053538,80.71918
-North Central,Anuradhapura,Rajanganaya,24,8.1708,80.2833
-North Central,Anuradhapura,Rambewa,41,8.4333,80.5
-North Central,Polonnaruwa,Elahera,54,7.7244,80.7883
-North Central,Polonnaruwa,Hingurakgoda,234,8.036505,80.948686
-North Central,Polonnaruwa,Medirigiriya,37,7.8167,80.1833
-North Central,Polonnaruwa,Welikanda,102,6.3167,80.0333
-Uva,Badulla,Bandarawela,246,6.828867,80.990898
-Uva,Badulla,Ella,160,6.874485,81.050937
-Uva,Badulla,Girandurukotte,168,7.4,81.05
-Uva,Badulla,Haldummulla,88,6.77061,80.884385
-Uva,Badulla,Lunugala,34,7.041299,81.199335
-Uva,Badulla,Mahiyanganaya,496,7.2444,81.1167
-Uva,Badulla,Passara,188,6.935017,81.151166
-Uva,Badulla,Soranathota,48,7.0167,81.05
-Uva,Badulla,Welimada,310,6.906059,80.913222
-Uva,Moneragala,Badalkumbura,150,6.893287,81.234346
-Uva,Moneragala,Buttala,224,6.75,81.2333
-Uva,Moneragala,Kataragama,98,6.4167,81.3333
-Uva,Moneragala,Madulla,94,7.047667,80.918204
-Uva,Moneragala,Siyambalanduwa,223,6.910581,81.552112
-Uva,Moneragala,Wellawaya,424,6.719458,81.106295
-Southern,Galle,Akmeemana,877,6.1845,80.3032
-Southern,Galle,Ambalangoda,251,6.77533,79.96413
-Southern,Galle,Baddegama,303,6.165975,80.201841
-Southern,Galle,Balapitiya,450,6.269254,80.036054
-Southern,Galle,Elpitiya,547,6.300214,80.171923
-Southern,Galle,Gonapinuwala,78,6.2233,80.2
-Southern,Galle,Habaraduwa,773,6.0043,80.326
-Southern,Galle,Hikkaduwa,708,6.139535,80.113201
-Southern,Galle,Imaduwa,264,6.7361,80.4354
-Southern,Galle,Induruwa,1883,6.4681,80.0257
-Southern,Galle,Karandeniya,247,6.260467,80.072462
-Southern,Galle,Neluwa,131,6.37393,80.363267
-Southern,Galle,Rathgama,350,6.7333,80.4833
-Southern,Galle,Udugama,221,6.188469,80.338951
-Southern,Galle,Yakkalamulla,126,6.109027,80.349195
-Southern,Hambanthota,Ambalantota,473,6.114494,81.025983
-Southern,Hambanthota,Beliatta,200,6.048637,80.734343
-Southern,Hambanthota,Katuwana,79,6.2667,80.6972
-Southern,Hambanthota,Walasmulla,148,6.15,80.7
-Southern,Hambanthota,Weeraketiya,233,6.135,80.7865
-Southern,Matara,Akuressa,244,6.0964,80.4808
-Southern,Matara,Athuraliya,177,6.069724,80.497879
-Southern,Matara,Hakmana,131,7.334701,80.82402
-Southern,Matara,Kamburupitiya,194,6.069847,80.56473
-Southern,Matara,Kotapola,167,6.292393,80.533957
-Southern,Matara,Morawaka,204,6.25,80.4833
-Southern,Matara,Pasgoda,65,6.242998,80.616175
-Southern,Matara,Thihagoda,158,6.011602,80.561851
-Southern,Matara,Weligama,704,5.9667,80.4167
-,,Ampara,672,7.29754,81.68202
-,,Anuradhapura,1848,8.31223,80.41306
-,,Badulla,3283,6.9895,81.0557
-,,Batticoloa,1000,7.7102,81.6924
-,,Colombo,49865,6.93194,79.84778
-,,Galle,9112,6.0367,80.217
-,,Gampaha,32551,7.0897,79.9925
-,,Hambanthota,2475,6.124593,81.101074
-,,Jaffna,2892,9.66845,80.00742
-,,Kalmunai,1597,7.40902,81.83472
-,,Kaluthara,17382,6.5831,79.9593
-,,Kandy,6853,7.2955,80.6356
-,,Kegalle,2467,7.2523,80.3436
-,,Kilinochchi,612,9.3961,80.3982
-,,Kurunegala,9591,7.4863,80.3623
-,,Mannar,411,8.9667,79.8833
-,,Matale,4031,7.6667,80.75
-,,Matara,4508,5.94851,80.53528
-,,Moneragala,2370,6.8714,81.3487
-,,Mullativu,929,9.15,80.6833
-,,Nuwaraeliya,3802,6.97078,80.78286
-,,Polonnaruwa,1085,7.93965,81.00274
-,,Puttalam,3433,8.0362,79.8283
-,,Ratnapura,6061,6.68278,80.39917
-,,Trincomalee,1562,8.5711,81.2335
-,,Vavunia,807,8.7514,80.4971
+Province,District,MOH/QC/Camp,State,cases,latitude,longitude
+Western,Colombo,Battaramulla,1,1080,6.900299,79.922136
+Western,Colombo,Boralesgamuwa,2,1697,6.8425,79.9006
+Western,Colombo,Dehiwala,3,2020,6.856387,79.865156
+Western,Colombo,Hanwella,4,2675,6.905988,80.083333
+Western,Colombo,Homagama,5,1654,6.85685,80.005384
+Western,Colombo,Kaduwela,6,1961,6.930497,79.984817
+Western,Colombo,Kolonnawa,7,1715,6.933035,79.888095
+Western,Colombo,Maharagama,8,1743,6.843401,79.932766
+Western,Colombo,Moratuwa,9,1990,6.7733,79.8825
+Western,Colombo,Nugegoda,10,1146,6.877563,79.886231
+Western,Colombo,Padukka,11,1054,6.837834,80.090301
+Western,Colombo,Piliyandala,12,2204,6.7981,79.9264
+Western,Gampaha,Attanagalla,13,1849,7.1119,80.1328
+Western,Gampaha,Biyagama,14,3281,6.9408,79.9889
+Western,Gampaha,Divulapitiya,15,1598,7.2167,80.0156
+Western,Gampaha,Dompe,16,1727,6.949806,80.055083
+Western,Gampaha,Ja-ela,17,1857,7.076147,79.894932
+Western,Gampaha,Katana,18,833,7.2517,79.9078
+Western,Gampaha,Kelaniya,19,2758,6.956357,79.921431
+Western,Gampaha,Minuwangoda,20,2044,7.176455,79.954904
+Western,Gampaha,Mirigama,21,971,7.2414,80.1325
+Western,Gampaha,Negombo,22,2609,7.2086,79.8358
+Western,Gampaha,Ragama,23,1985,7.025281,79.917386
+Western,Gampaha,Seeduwa,24,2180,7.132059,79.885024
+Western,Gampaha,Wattala,25,2387,6.990037,79.892207
+Western,Kaluthara,Agalawatta,26,681,6.541499,80.155785
+Western,Kaluthara,Bandaragama,27,1523,6.710264,79.986087
+Western,Kaluthara,Bulathsinhala,28,980,6.666199,80.164896
+Western,Kaluthara,Dodangoda,29,228,6.555952,80.006847
+Western,Kaluthara,Horana,30,1639,6.719389,80.061557
+Western,Kaluthara,Ingiriya,31,585,6.7296,80.0604
+Western,Kaluthara,Millaniya,32,550,6.686206,80.017227
+Western,Kaluthara,Panadura,33,2224,6.7133,79.9042
+Western,Kaluthara,Wadduwa,34,902,6.667121,79.924051
+Western,NIHS,Beruwala,35,1712,6.4739,79.9842
+North Western,Kurunegala,Alawwa,36,383,7.2875,80.2536
+North Western,Kurunegala,Ambanpola,37,239,7.915973,80.237512
+North Western,Kurunegala,Bamunukotuwa,38,152,7.8667,80.2167
+North Western,Kurunegala,Bingiriya,39,185,7.605177,79.921996
+North Western,Kurunegala,Galgamuwa,40,200,7.995468,80.267527
+North Western,Kurunegala,Ibbagamuwa,41,272,7.675,80.3667
+North Western,Kurunegala,Kobeigane,42,53,7.656731,80.120999
+North Western,Kurunegala,Kotawehera,43,46,7.7911,80.1023
+North Western,Kurunegala,Kurunegala,44,1745,7.4867,80.3647
+North Western,Kurunegala,Maho,45,182,7.8228,80.2778
+North Western,Kurunegala,Mawathagama,46,421,7.409691,80.315775
+North Western,Kurunegala,Narammala,47,507,7.431387,80.206159
+North Western,Kurunegala,Nikaweratiya,48,413,7.747585,80.115201
+North Western,Kurunegala,Pannala,49,866,6.4833,80
+North Western,Kurunegala,Polgahawela,50,356,7.332765,80.295285
+North Western,Kurunegala,Polpithigama,51,193,7.8142,80.4042
+North Western,Kurunegala,Udubaddawa,52,139,7.4828,79.9753
+North Western,Kurunegala,Wariyapola,53,319,7.628694,80.235989
+North Western,Puttalam,Anamaduwa,54,143,7.881625,80.00353
+North Western,Puttalam,Chilaw,55,617,7.5758,79.7953
+North Western,Puttalam,Dankotuwa,56,569,7.300443,79.88505
+North Western,Puttalam,Kalpitiya,57,95,8.2333,79.7667
+North Western,Puttalam,Karuwalagaswewa,58,18,8.037625,79.94267
+North Western,Puttalam,Madampe,59,225,7.5,79.8333
+North Western,Puttalam,Mahawewa,60,66,7.5167,79.9167
+North Western,Puttalam,Nattandiya,61,736,7.4086,79.8683
+North Western,Puttalam,Pallama,62,97,7.681225,79.918239
+North Western,Puttalam,Puttalam,63,115,8.043613,79.841209
+North Western,Puttalam,Wennappuwa,64,377,7.35048,79.850112
+Central,Kandy,Akurana,65,366,7.637034,80.023362
+Central,Kandy,Doluwa,66,44,7.621516,80.418833
+Central,Kandy,Galagedara,67,71,7.369716,80.520308
+Central,Kandy,Hasalaka,68,124,7.5667,80.625
+Central,Kandy,Kundasale,69,767,7.2667,80.6833
+Central,Kandy,Menikhinna,70,422,7.3167,80.7
+Central,Kandy,Panvila,71,106,7.0667,80.6833
+Central,Matale,Dambulla,72,506,7.868039,80.646464
+Central,Matale,Galewela,73,398,7.759807,80.56744
+Central,Matale,Naula,74,243,7.708132,80.652321
+Central,Matale,Pallepola,75,152,7.620686,80.600466
+Central,Matale,Rattota,76,341,7.5217,80.6847
+Central,Matale,Ukuwela,77,650,7.423917,80.62996
+Central,Matale,Wilgamuwa,78,80,7.3667,80.2
+Central,Matale,Yatawatta,79,145,7.562698,80.578361
+Central,Nuwaraeliya,Hanguranketha,80,228,7.1517,80.7118
+Central,Nuwaraeliya,Kotagala,81,189,7.45,80.2333
+Central,Nuwaraeliya,Lindula,82,243,6.920326,80.684129
+Central,Nuwaraeliya,Maskeliya,83,88,6.831379,80.568585
+Central,Nuwaraeliya,Nawathispane,84,220,7.0333,80.5
+Central,Nuwaraeliya,Walapane,85,190,7.091924,80.860522
+Sabaragamuwa,Kegalle,Bulathkohupitiya,86,129,7.105994,80.338761
+Sabaragamuwa,Kegalle,Deraniyagala,87,193,6.932387,80.335039
+Sabaragamuwa,Kegalle,Mawanella,88,182,7.244446,80.439045
+Sabaragamuwa,Kegalle,Rambukkana,89,177,7.323016,80.391856
+Sabaragamuwa,Kegalle,Ruwanwella,90,337,7.048852,80.2561
+Sabaragamuwa,Kegalle,Warakapola,91,403,7.230053,80.196768
+Sabaragamuwa,Ratnapura,Ayagama,92,154,6.63662,80.317329
+Sabaragamuwa,Ratnapura,Balangoda,93,280,6.661743,80.69371
+Sabaragamuwa,Ratnapura,Eheliyagoda,94,1027,6.85,80.2667
+Sabaragamuwa,Ratnapura,Elapatha,95,184,6.66081,80.366828
+Sabaragamuwa,Ratnapura,Godakawela,96,209,6.505599,80.647268
+Sabaragamuwa,Ratnapura,Imbulpe,97,144,6.7159,80.6375
+Sabaragamuwa,Ratnapura,Kalawana,98,512,6.531595,80.407285
+Sabaragamuwa,Ratnapura,Kiriella,99,364,6.753583,80.265838
+Sabaragamuwa,Ratnapura,Kolonna,100,110,6.404095,80.681552
+Sabaragamuwa,Ratnapura,Kuruwita,101,691,6.7792,80.3686
+Sabaragamuwa,Ratnapura,Opanayaka,102,102,6.608359,80.625134
+Sabaragamuwa,Ratnapura,Weligepola,103,76,6.567212,80.707078
+Northern,Kilinochchi,Poonakary,104,53,9.5035013,80.2111173
+Eastern,Ampara,Damana,105,83,7.8417,80.5797
+Eastern,Ampara,Lahugala,106,10,7.415566,81.33954
+Eastern,Ampara,Mahaoya,107,27,7.535248,81.351145
+Eastern,Ampara,Uhana,108,96,7.363281,81.637746
+Eastern,Batticaloa,Eravur,109,74,7.768518,81.619817
+Eastern,Batticaloa,Kiran,110,32,7.866841,81.529737
+Eastern,Batticaloa,Oddamavadi,111,53,7.9167,81.5167
+Eastern,Batticaloa,Vakarai,112,6,8.165968,81.415623
+Eastern,Batticaloa,Valaichenai,113,65,7.7,81.6
+Eastern,Kalmunai,Akkaraipattu,114,380,7.2167,81.85
+Eastern,Kalmunai,Irakkamam,115,213,7.1125,81.8542
+Eastern,Kalmunai,Navithanveli,116,26,7.4333,81.7833
+Eastern,Kalmunai,Pottuvil,117,91,6.8667,81.8333
+Eastern,Kalmunai,Sainthamaruthu,118,83,7.3833,81.8333
+Eastern,Kalmunai,Samanthurai,119,60,7.3833,81.8333
+Eastern,Trincomalee,Gomarankadawala,120,21,8.677731,80.960417
+Eastern,Trincomalee,Kinniya,121,164,8.497717,81.179214
+Eastern,Trincomalee,Kuchchaveli,122,65,8.792709,81.036113
+North Central,Anuradhapura,Galenbindunuwewa,123,40,8.5833,80.55
+North Central,Anuradhapura,Galnewa,124,21,8.2,80.3667
+North Central,Anuradhapura,Kahatagasdigiliya,125,26,8.4167,80.6833
+North Central,Anuradhapura,Kebithigollewa,126,9,8.5333,80.4833
+North Central,Anuradhapura,Kekirawa,127,108,8.037462,80.59801
+North Central,Anuradhapura,Mahawilachchiya,128,20,8.2814,80.4588
+North Central,Anuradhapura,Medawachchiya,129,63,8.540822,80.495957
+North Central,Anuradhapura,Nachchaduwa,130,4,8.2667,80.4667
+North Central,Anuradhapura,Nochchiyagama,131,71,8.266802,80.20823
+North Central,Anuradhapura,Padaviya,132,11,8.5595,80.5476
+North Central,Anuradhapura,Palagala,133,34,7.4667,80.1333
+North Central,Anuradhapura,Palugaswewa,134,2,8.053538,80.71918
+North Central,Anuradhapura,Rajanganaya,135,24,8.1708,80.2833
+North Central,Anuradhapura,Rambewa,136,41,8.4333,80.5
+North Central,Polonnaruwa,Elahera,137,54,7.7244,80.7883
+North Central,Polonnaruwa,Hingurakgoda,138,234,8.036505,80.948686
+North Central,Polonnaruwa,Medirigiriya,139,37,7.8167,80.1833
+North Central,Polonnaruwa,Welikanda,140,102,6.3167,80.0333
+Uva,Badulla,Bandarawela,141,246,6.828867,80.990898
+Uva,Badulla,Ella,142,160,6.874485,81.050937
+Uva,Badulla,Girandurukotte,143,168,7.4,81.05
+Uva,Badulla,Haldummulla,144,88,6.77061,80.884385
+Uva,Badulla,Lunugala,145,34,7.041299,81.199335
+Uva,Badulla,Mahiyanganaya,146,496,7.2444,81.1167
+Uva,Badulla,Passara,147,188,6.935017,81.151166
+Uva,Badulla,Soranathota,148,48,7.0167,81.05
+Uva,Badulla,Welimada,149,310,6.906059,80.913222
+Uva,Moneragala,Badalkumbura,150,150,6.893287,81.234346
+Uva,Moneragala,Buttala,151,224,6.75,81.2333
+Uva,Moneragala,Kataragama,152,98,6.4167,81.3333
+Uva,Moneragala,Madulla,153,94,7.047667,80.918204
+Uva,Moneragala,Siyambalanduwa,154,223,6.910581,81.552112
+Uva,Moneragala,Wellawaya,155,424,6.719458,81.106295
+Southern,Galle,Akmeemana,156,877,6.1845,80.3032
+Southern,Galle,Ambalangoda,157,251,6.77533,79.96413
+Southern,Galle,Baddegama,158,303,6.165975,80.201841
+Southern,Galle,Balapitiya,159,450,6.269254,80.036054
+Southern,Galle,Elpitiya,160,547,6.300214,80.171923
+Southern,Galle,Gonapinuwala,161,78,6.2233,80.2
+Southern,Galle,Habaraduwa,162,773,6.0043,80.326
+Southern,Galle,Hikkaduwa,163,708,6.139535,80.113201
+Southern,Galle,Imaduwa,164,264,6.7361,80.4354
+Southern,Galle,Induruwa,165,1883,6.4681,80.0257
+Southern,Galle,Karandeniya,166,247,6.260467,80.072462
+Southern,Galle,Neluwa,167,131,6.37393,80.363267
+Southern,Galle,Rathgama,168,350,6.7333,80.4833
+Southern,Galle,Udugama,169,221,6.188469,80.338951
+Southern,Galle,Yakkalamulla,170,126,6.109027,80.349195
+Southern,Hambanthota,Ambalantota,171,473,6.114494,81.025983
+Southern,Hambanthota,Beliatta,172,200,6.048637,80.734343
+Southern,Hambanthota,Katuwana,173,79,6.2667,80.6972
+Southern,Hambanthota,Walasmulla,174,148,6.15,80.7
+Southern,Hambanthota,Weeraketiya,175,233,6.135,80.7865
+Southern,Matara,Akuressa,176,244,6.0964,80.4808
+Southern,Matara,Athuraliya,177,177,6.069724,80.497879
+Southern,Matara,Hakmana,178,131,7.334701,80.82402
+Southern,Matara,Kamburupitiya,179,194,6.069847,80.56473
+Southern,Matara,Kotapola,180,167,6.292393,80.533957
+Southern,Matara,Morawaka,181,204,6.25,80.4833
+Southern,Matara,Pasgoda,182,65,6.242998,80.616175
+Southern,Matara,Thihagoda,183,158,6.011602,80.561851
+Southern,Matara,Weligama,184,704,5.9667,80.4167
+,,Ampara,185,672,7.29754,81.68202
+,,Anuradhapura,186,1848,8.31223,80.41306
+,,Badulla,187,3283,6.9895,81.0557
+,,Batticoloa,188,1000,7.7102,81.6924
+,,Colombo,189,49865,6.93194,79.84778
+,,Galle,190,9112,6.0367,80.217
+,,Gampaha,191,32551,7.0897,79.9925
+,,Hambanthota,192,2475,6.124593,81.101074
+,,Jaffna,193,2892,9.66845,80.00742
+,,Kalmunai,194,1597,7.40902,81.83472
+,,Kaluthara,195,17382,6.5831,79.9593
+,,Kandy,196,6853,7.2955,80.6356
+,,Kegalle,197,2467,7.2523,80.3436
+,,Kilinochchi,198,612,9.3961,80.3982
+,,Kurunegala,199,9591,7.4863,80.3623
+,,Mannar,200,411,8.9667,79.8833
+,,Matale,201,4031,7.6667,80.75
+,,Matara,202,4508,5.94851,80.53528
+,,Moneragala,203,2370,6.8714,81.3487
+,,Mullativu,204,929,9.15,80.6833
+,,Nuwaraeliya,205,3802,6.97078,80.78286
+,,Polonnaruwa,206,1085,7.93965,81.00274
+,,Puttalam,207,3433,8.0362,79.8283
+,,Ratnapura,208,6061,6.68278,80.39917
+,,Trincomalee,209,1562,8.5711,81.2335
+,,Vavunia,210,807,8.7514,80.4971

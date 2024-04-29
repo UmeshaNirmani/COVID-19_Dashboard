@@ -1,0 +1,3995 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.922136,
+                    6.900299
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Battaramulla",
+                "State": "1",
+                "cases": "1080",
+                "latitude": "6.900299",
+                "longitude": "79.922136"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9006,
+                    6.8425
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Boralesgamuwa",
+                "State": "2",
+                "cases": "1697",
+                "latitude": "6.8425",
+                "longitude": "79.9006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.865156,
+                    6.856387
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Dehiwala",
+                "State": "3",
+                "cases": "2020",
+                "latitude": "6.856387",
+                "longitude": "79.865156"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.083333,
+                    6.905988
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Hanwella",
+                "State": "4",
+                "cases": "2675",
+                "latitude": "6.905988",
+                "longitude": "80.083333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.005384,
+                    6.85685
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Homagama",
+                "State": "5",
+                "cases": "1654",
+                "latitude": "6.85685",
+                "longitude": "80.005384"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.984817,
+                    6.930497
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Kaduwela",
+                "State": "6",
+                "cases": "1961",
+                "latitude": "6.930497",
+                "longitude": "79.984817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.888095,
+                    6.933035
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Kolonnawa",
+                "State": "7",
+                "cases": "1715",
+                "latitude": "6.933035",
+                "longitude": "79.888095"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.932766,
+                    6.843401
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Maharagama",
+                "State": "8",
+                "cases": "1743",
+                "latitude": "6.843401",
+                "longitude": "79.932766"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8825,
+                    6.7733
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Moratuwa",
+                "State": "9",
+                "cases": "1990",
+                "latitude": "6.7733",
+                "longitude": "79.8825"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.886231,
+                    6.877563
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Nugegoda",
+                "State": "10",
+                "cases": "1146",
+                "latitude": "6.877563",
+                "longitude": "79.886231"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.090301,
+                    6.837834
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Padukka",
+                "State": "11",
+                "cases": "1054",
+                "latitude": "6.837834",
+                "longitude": "80.090301"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9264,
+                    6.7981
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Colombo",
+                "MOH/QC/Camp": "Piliyandala",
+                "State": "12",
+                "cases": "2204",
+                "latitude": "6.7981",
+                "longitude": "79.9264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1328,
+                    7.1119
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Attanagalla",
+                "State": "13",
+                "cases": "1849",
+                "latitude": "7.1119",
+                "longitude": "80.1328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9889,
+                    6.9408
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Biyagama",
+                "State": "14",
+                "cases": "3281",
+                "latitude": "6.9408",
+                "longitude": "79.9889"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0156,
+                    7.2167
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Divulapitiya",
+                "State": "15",
+                "cases": "1598",
+                "latitude": "7.2167",
+                "longitude": "80.0156"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.055083,
+                    6.949806
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Dompe",
+                "State": "16",
+                "cases": "1727",
+                "latitude": "6.949806",
+                "longitude": "80.055083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.894932,
+                    7.076147
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Ja-ela",
+                "State": "17",
+                "cases": "1857",
+                "latitude": "7.076147",
+                "longitude": "79.894932"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9078,
+                    7.2517
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Katana",
+                "State": "18",
+                "cases": "833",
+                "latitude": "7.2517",
+                "longitude": "79.9078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.921431,
+                    6.956357
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Kelaniya",
+                "State": "19",
+                "cases": "2758",
+                "latitude": "6.956357",
+                "longitude": "79.921431"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.954904,
+                    7.176455
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Minuwangoda",
+                "State": "20",
+                "cases": "2044",
+                "latitude": "7.176455",
+                "longitude": "79.954904"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1325,
+                    7.2414
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Mirigama",
+                "State": "21",
+                "cases": "971",
+                "latitude": "7.2414",
+                "longitude": "80.1325"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8358,
+                    7.2086
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Negombo",
+                "State": "22",
+                "cases": "2609",
+                "latitude": "7.2086",
+                "longitude": "79.8358"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.917386,
+                    7.025281
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Ragama",
+                "State": "23",
+                "cases": "1985",
+                "latitude": "7.025281",
+                "longitude": "79.917386"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.885024,
+                    7.132059
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Seeduwa",
+                "State": "24",
+                "cases": "2180",
+                "latitude": "7.132059",
+                "longitude": "79.885024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.892207,
+                    6.990037
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Gampaha",
+                "MOH/QC/Camp": "Wattala",
+                "State": "25",
+                "cases": "2387",
+                "latitude": "6.990037",
+                "longitude": "79.892207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.155785,
+                    6.541499
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Agalawatta",
+                "State": "26",
+                "cases": "681",
+                "latitude": "6.541499",
+                "longitude": "80.155785"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.986087,
+                    6.710264
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Bandaragama",
+                "State": "27",
+                "cases": "1523",
+                "latitude": "6.710264",
+                "longitude": "79.986087"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.164896,
+                    6.666199
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Bulathsinhala",
+                "State": "28",
+                "cases": "980",
+                "latitude": "6.666199",
+                "longitude": "80.164896"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.006847,
+                    6.555952
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Dodangoda",
+                "State": "29",
+                "cases": "228",
+                "latitude": "6.555952",
+                "longitude": "80.006847"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.061557,
+                    6.719389
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Horana",
+                "State": "30",
+                "cases": "1639",
+                "latitude": "6.719389",
+                "longitude": "80.061557"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0604,
+                    6.7296
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Ingiriya",
+                "State": "31",
+                "cases": "585",
+                "latitude": "6.7296",
+                "longitude": "80.0604"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.017227,
+                    6.686206
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Millaniya",
+                "State": "32",
+                "cases": "550",
+                "latitude": "6.686206",
+                "longitude": "80.017227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9042,
+                    6.7133
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Panadura",
+                "State": "33",
+                "cases": "2224",
+                "latitude": "6.7133",
+                "longitude": "79.9042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.924051,
+                    6.667121
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "Kaluthara",
+                "MOH/QC/Camp": "Wadduwa",
+                "State": "34",
+                "cases": "902",
+                "latitude": "6.667121",
+                "longitude": "79.924051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9842,
+                    6.4739
+                ]
+            },
+            "properties": {
+                "Province": "Western",
+                "District": "NIHS",
+                "MOH/QC/Camp": "Beruwala",
+                "State": "35",
+                "cases": "1712",
+                "latitude": "6.4739",
+                "longitude": "79.9842"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2536,
+                    7.2875
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Alawwa",
+                "State": "36",
+                "cases": "383",
+                "latitude": "7.2875",
+                "longitude": "80.2536"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.237512,
+                    7.915973
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Ambanpola",
+                "State": "37",
+                "cases": "239",
+                "latitude": "7.915973",
+                "longitude": "80.237512"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2167,
+                    7.8667
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Bamunukotuwa",
+                "State": "38",
+                "cases": "152",
+                "latitude": "7.8667",
+                "longitude": "80.2167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.921996,
+                    7.605177
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Bingiriya",
+                "State": "39",
+                "cases": "185",
+                "latitude": "7.605177",
+                "longitude": "79.921996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.267527,
+                    7.995468
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Galgamuwa",
+                "State": "40",
+                "cases": "200",
+                "latitude": "7.995468",
+                "longitude": "80.267527"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3667,
+                    7.675
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Ibbagamuwa",
+                "State": "41",
+                "cases": "272",
+                "latitude": "7.675",
+                "longitude": "80.3667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.120999,
+                    7.656731
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Kobeigane",
+                "State": "42",
+                "cases": "53",
+                "latitude": "7.656731",
+                "longitude": "80.120999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1023,
+                    7.7911
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Kotawehera",
+                "State": "43",
+                "cases": "46",
+                "latitude": "7.7911",
+                "longitude": "80.1023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3647,
+                    7.4867
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Kurunegala",
+                "State": "44",
+                "cases": "1745",
+                "latitude": "7.4867",
+                "longitude": "80.3647"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2778,
+                    7.8228
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Maho",
+                "State": "45",
+                "cases": "182",
+                "latitude": "7.8228",
+                "longitude": "80.2778"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.315775,
+                    7.409691
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Mawathagama",
+                "State": "46",
+                "cases": "421",
+                "latitude": "7.409691",
+                "longitude": "80.315775"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.206159,
+                    7.431387
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Narammala",
+                "State": "47",
+                "cases": "507",
+                "latitude": "7.431387",
+                "longitude": "80.206159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.115201,
+                    7.747585
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Nikaweratiya",
+                "State": "48",
+                "cases": "413",
+                "latitude": "7.747585",
+                "longitude": "80.115201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0,
+                    6.4833
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Pannala",
+                "State": "49",
+                "cases": "866",
+                "latitude": "6.4833",
+                "longitude": "80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.295285,
+                    7.332765
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Polgahawela",
+                "State": "50",
+                "cases": "356",
+                "latitude": "7.332765",
+                "longitude": "80.295285"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4042,
+                    7.8142
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Polpithigama",
+                "State": "51",
+                "cases": "193",
+                "latitude": "7.8142",
+                "longitude": "80.4042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9753,
+                    7.4828
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Udubaddawa",
+                "State": "52",
+                "cases": "139",
+                "latitude": "7.4828",
+                "longitude": "79.9753"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.235989,
+                    7.628694
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Kurunegala",
+                "MOH/QC/Camp": "Wariyapola",
+                "State": "53",
+                "cases": "319",
+                "latitude": "7.628694",
+                "longitude": "80.235989"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.00353,
+                    7.881625
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Anamaduwa",
+                "State": "54",
+                "cases": "143",
+                "latitude": "7.881625",
+                "longitude": "80.00353"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7953,
+                    7.5758
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Chilaw",
+                "State": "55",
+                "cases": "617",
+                "latitude": "7.5758",
+                "longitude": "79.7953"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88505,
+                    7.300443
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Dankotuwa",
+                "State": "56",
+                "cases": "569",
+                "latitude": "7.300443",
+                "longitude": "79.88505"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7667,
+                    8.2333
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Kalpitiya",
+                "State": "57",
+                "cases": "95",
+                "latitude": "8.2333",
+                "longitude": "79.7667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94267,
+                    8.037625
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Karuwalagaswewa",
+                "State": "58",
+                "cases": "18",
+                "latitude": "8.037625",
+                "longitude": "79.94267"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8333,
+                    7.5
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Madampe",
+                "State": "59",
+                "cases": "225",
+                "latitude": "7.5",
+                "longitude": "79.8333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9167,
+                    7.5167
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Mahawewa",
+                "State": "60",
+                "cases": "66",
+                "latitude": "7.5167",
+                "longitude": "79.9167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8683,
+                    7.4086
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Nattandiya",
+                "State": "61",
+                "cases": "736",
+                "latitude": "7.4086",
+                "longitude": "79.8683"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.918239,
+                    7.681225
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Pallama",
+                "State": "62",
+                "cases": "97",
+                "latitude": "7.681225",
+                "longitude": "79.918239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.841209,
+                    8.043613
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Puttalam",
+                "State": "63",
+                "cases": "115",
+                "latitude": "8.043613",
+                "longitude": "79.841209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.850112,
+                    7.35048
+                ]
+            },
+            "properties": {
+                "Province": "North Western",
+                "District": "Puttalam",
+                "MOH/QC/Camp": "Wennappuwa",
+                "State": "64",
+                "cases": "377",
+                "latitude": "7.35048",
+                "longitude": "79.850112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.023362,
+                    7.637034
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Akurana",
+                "State": "65",
+                "cases": "366",
+                "latitude": "7.637034",
+                "longitude": "80.023362"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.418833,
+                    7.621516
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Doluwa",
+                "State": "66",
+                "cases": "44",
+                "latitude": "7.621516",
+                "longitude": "80.418833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.520308,
+                    7.369716
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Galagedara",
+                "State": "67",
+                "cases": "71",
+                "latitude": "7.369716",
+                "longitude": "80.520308"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.625,
+                    7.5667
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Hasalaka",
+                "State": "68",
+                "cases": "124",
+                "latitude": "7.5667",
+                "longitude": "80.625"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6833,
+                    7.2667
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Kundasale",
+                "State": "69",
+                "cases": "767",
+                "latitude": "7.2667",
+                "longitude": "80.6833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7,
+                    7.3167
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Menikhinna",
+                "State": "70",
+                "cases": "422",
+                "latitude": "7.3167",
+                "longitude": "80.7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6833,
+                    7.0667
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Kandy",
+                "MOH/QC/Camp": "Panvila",
+                "State": "71",
+                "cases": "106",
+                "latitude": "7.0667",
+                "longitude": "80.6833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.646464,
+                    7.868039
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Dambulla",
+                "State": "72",
+                "cases": "506",
+                "latitude": "7.868039",
+                "longitude": "80.646464"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.56744,
+                    7.759807
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Galewela",
+                "State": "73",
+                "cases": "398",
+                "latitude": "7.759807",
+                "longitude": "80.56744"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.652321,
+                    7.708132
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Naula",
+                "State": "74",
+                "cases": "243",
+                "latitude": "7.708132",
+                "longitude": "80.652321"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.600466,
+                    7.620686
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Pallepola",
+                "State": "75",
+                "cases": "152",
+                "latitude": "7.620686",
+                "longitude": "80.600466"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6847,
+                    7.5217
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Rattota",
+                "State": "76",
+                "cases": "341",
+                "latitude": "7.5217",
+                "longitude": "80.6847"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.62996,
+                    7.423917
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Ukuwela",
+                "State": "77",
+                "cases": "650",
+                "latitude": "7.423917",
+                "longitude": "80.62996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2,
+                    7.3667
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Wilgamuwa",
+                "State": "78",
+                "cases": "80",
+                "latitude": "7.3667",
+                "longitude": "80.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.578361,
+                    7.562698
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Matale",
+                "MOH/QC/Camp": "Yatawatta",
+                "State": "79",
+                "cases": "145",
+                "latitude": "7.562698",
+                "longitude": "80.578361"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7118,
+                    7.1517
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Nuwaraeliya",
+                "MOH/QC/Camp": "Hanguranketha",
+                "State": "80",
+                "cases": "228",
+                "latitude": "7.1517",
+                "longitude": "80.7118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2333,
+                    7.45
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Nuwaraeliya",
+                "MOH/QC/Camp": "Kotagala",
+                "State": "81",
+                "cases": "189",
+                "latitude": "7.45",
+                "longitude": "80.2333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.684129,
+                    6.920326
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Nuwaraeliya",
+                "MOH/QC/Camp": "Lindula",
+                "State": "82",
+                "cases": "243",
+                "latitude": "6.920326",
+                "longitude": "80.684129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.568585,
+                    6.831379
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Nuwaraeliya",
+                "MOH/QC/Camp": "Maskeliya",
+                "State": "83",
+                "cases": "88",
+                "latitude": "6.831379",
+                "longitude": "80.568585"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5,
+                    7.0333
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Nuwaraeliya",
+                "MOH/QC/Camp": "Nawathispane",
+                "State": "84",
+                "cases": "220",
+                "latitude": "7.0333",
+                "longitude": "80.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.860522,
+                    7.091924
+                ]
+            },
+            "properties": {
+                "Province": "Central",
+                "District": "Nuwaraeliya",
+                "MOH/QC/Camp": "Walapane",
+                "State": "85",
+                "cases": "190",
+                "latitude": "7.091924",
+                "longitude": "80.860522"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.338761,
+                    7.105994
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Kegalle",
+                "MOH/QC/Camp": "Bulathkohupitiya",
+                "State": "86",
+                "cases": "129",
+                "latitude": "7.105994",
+                "longitude": "80.338761"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.335039,
+                    6.932387
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Kegalle",
+                "MOH/QC/Camp": "Deraniyagala",
+                "State": "87",
+                "cases": "193",
+                "latitude": "6.932387",
+                "longitude": "80.335039"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.439045,
+                    7.244446
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Kegalle",
+                "MOH/QC/Camp": "Mawanella",
+                "State": "88",
+                "cases": "182",
+                "latitude": "7.244446",
+                "longitude": "80.439045"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.391856,
+                    7.323016
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Kegalle",
+                "MOH/QC/Camp": "Rambukkana",
+                "State": "89",
+                "cases": "177",
+                "latitude": "7.323016",
+                "longitude": "80.391856"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2561,
+                    7.048852
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Kegalle",
+                "MOH/QC/Camp": "Ruwanwella",
+                "State": "90",
+                "cases": "337",
+                "latitude": "7.048852",
+                "longitude": "80.2561"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.196768,
+                    7.230053
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Kegalle",
+                "MOH/QC/Camp": "Warakapola",
+                "State": "91",
+                "cases": "403",
+                "latitude": "7.230053",
+                "longitude": "80.196768"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.317329,
+                    6.63662
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Ayagama",
+                "State": "92",
+                "cases": "154",
+                "latitude": "6.63662",
+                "longitude": "80.317329"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.69371,
+                    6.661743
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Balangoda",
+                "State": "93",
+                "cases": "280",
+                "latitude": "6.661743",
+                "longitude": "80.69371"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2667,
+                    6.85
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Eheliyagoda",
+                "State": "94",
+                "cases": "1027",
+                "latitude": "6.85",
+                "longitude": "80.2667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.366828,
+                    6.66081
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Elapatha",
+                "State": "95",
+                "cases": "184",
+                "latitude": "6.66081",
+                "longitude": "80.366828"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.647268,
+                    6.505599
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Godakawela",
+                "State": "96",
+                "cases": "209",
+                "latitude": "6.505599",
+                "longitude": "80.647268"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6375,
+                    6.7159
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Imbulpe",
+                "State": "97",
+                "cases": "144",
+                "latitude": "6.7159",
+                "longitude": "80.6375"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.407285,
+                    6.531595
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Kalawana",
+                "State": "98",
+                "cases": "512",
+                "latitude": "6.531595",
+                "longitude": "80.407285"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.265838,
+                    6.753583
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Kiriella",
+                "State": "99",
+                "cases": "364",
+                "latitude": "6.753583",
+                "longitude": "80.265838"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.681552,
+                    6.404095
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Kolonna",
+                "State": "100",
+                "cases": "110",
+                "latitude": "6.404095",
+                "longitude": "80.681552"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3686,
+                    6.7792
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Kuruwita",
+                "State": "101",
+                "cases": "691",
+                "latitude": "6.7792",
+                "longitude": "80.3686"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.625134,
+                    6.608359
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Opanayaka",
+                "State": "102",
+                "cases": "102",
+                "latitude": "6.608359",
+                "longitude": "80.625134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.707078,
+                    6.567212
+                ]
+            },
+            "properties": {
+                "Province": "Sabaragamuwa",
+                "District": "Ratnapura",
+                "MOH/QC/Camp": "Weligepola",
+                "State": "103",
+                "cases": "76",
+                "latitude": "6.567212",
+                "longitude": "80.707078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2111173,
+                    9.5035013
+                ]
+            },
+            "properties": {
+                "Province": "Northern",
+                "District": "Kilinochchi",
+                "MOH/QC/Camp": "Poonakary",
+                "State": "104",
+                "cases": "53",
+                "latitude": "9.5035013",
+                "longitude": "80.2111173"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5797,
+                    7.8417
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Ampara",
+                "MOH/QC/Camp": "Damana",
+                "State": "105",
+                "cases": "83",
+                "latitude": "7.8417",
+                "longitude": "80.5797"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.33954,
+                    7.415566
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Ampara",
+                "MOH/QC/Camp": "Lahugala",
+                "State": "106",
+                "cases": "10",
+                "latitude": "7.415566",
+                "longitude": "81.33954"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.351145,
+                    7.535248
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Ampara",
+                "MOH/QC/Camp": "Mahaoya",
+                "State": "107",
+                "cases": "27",
+                "latitude": "7.535248",
+                "longitude": "81.351145"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.637746,
+                    7.363281
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Ampara",
+                "MOH/QC/Camp": "Uhana",
+                "State": "108",
+                "cases": "96",
+                "latitude": "7.363281",
+                "longitude": "81.637746"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.619817,
+                    7.768518
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Batticaloa",
+                "MOH/QC/Camp": "Eravur",
+                "State": "109",
+                "cases": "74",
+                "latitude": "7.768518",
+                "longitude": "81.619817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.529737,
+                    7.866841
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Batticaloa",
+                "MOH/QC/Camp": "Kiran",
+                "State": "110",
+                "cases": "32",
+                "latitude": "7.866841",
+                "longitude": "81.529737"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5167,
+                    7.9167
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Batticaloa",
+                "MOH/QC/Camp": "Oddamavadi",
+                "State": "111",
+                "cases": "53",
+                "latitude": "7.9167",
+                "longitude": "81.5167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.415623,
+                    8.165968
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Batticaloa",
+                "MOH/QC/Camp": "Vakarai",
+                "State": "112",
+                "cases": "6",
+                "latitude": "8.165968",
+                "longitude": "81.415623"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6,
+                    7.7
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Batticaloa",
+                "MOH/QC/Camp": "Valaichenai",
+                "State": "113",
+                "cases": "65",
+                "latitude": "7.7",
+                "longitude": "81.6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.85,
+                    7.2167
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Kalmunai",
+                "MOH/QC/Camp": "Akkaraipattu",
+                "State": "114",
+                "cases": "380",
+                "latitude": "7.2167",
+                "longitude": "81.85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8542,
+                    7.1125
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Kalmunai",
+                "MOH/QC/Camp": "Irakkamam",
+                "State": "115",
+                "cases": "213",
+                "latitude": "7.1125",
+                "longitude": "81.8542"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7833,
+                    7.4333
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Kalmunai",
+                "MOH/QC/Camp": "Navithanveli",
+                "State": "116",
+                "cases": "26",
+                "latitude": "7.4333",
+                "longitude": "81.7833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8333,
+                    6.8667
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Kalmunai",
+                "MOH/QC/Camp": "Pottuvil",
+                "State": "117",
+                "cases": "91",
+                "latitude": "6.8667",
+                "longitude": "81.8333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8333,
+                    7.3833
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Kalmunai",
+                "MOH/QC/Camp": "Sainthamaruthu",
+                "State": "118",
+                "cases": "83",
+                "latitude": "7.3833",
+                "longitude": "81.8333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8333,
+                    7.3833
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Kalmunai",
+                "MOH/QC/Camp": "Samanthurai",
+                "State": "119",
+                "cases": "60",
+                "latitude": "7.3833",
+                "longitude": "81.8333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.960417,
+                    8.677731
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Trincomalee",
+                "MOH/QC/Camp": "Gomarankadawala",
+                "State": "120",
+                "cases": "21",
+                "latitude": "8.677731",
+                "longitude": "80.960417"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.179214,
+                    8.497717
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Trincomalee",
+                "MOH/QC/Camp": "Kinniya",
+                "State": "121",
+                "cases": "164",
+                "latitude": "8.497717",
+                "longitude": "81.179214"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.036113,
+                    8.792709
+                ]
+            },
+            "properties": {
+                "Province": "Eastern",
+                "District": "Trincomalee",
+                "MOH/QC/Camp": "Kuchchaveli",
+                "State": "122",
+                "cases": "65",
+                "latitude": "8.792709",
+                "longitude": "81.036113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.55,
+                    8.5833
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Galenbindunuwewa",
+                "State": "123",
+                "cases": "40",
+                "latitude": "8.5833",
+                "longitude": "80.55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3667,
+                    8.2
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Galnewa",
+                "State": "124",
+                "cases": "21",
+                "latitude": "8.2",
+                "longitude": "80.3667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6833,
+                    8.4167
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Kahatagasdigiliya",
+                "State": "125",
+                "cases": "26",
+                "latitude": "8.4167",
+                "longitude": "80.6833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4833,
+                    8.5333
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Kebithigollewa",
+                "State": "126",
+                "cases": "9",
+                "latitude": "8.5333",
+                "longitude": "80.4833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.59801,
+                    8.037462
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Kekirawa",
+                "State": "127",
+                "cases": "108",
+                "latitude": "8.037462",
+                "longitude": "80.59801"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4588,
+                    8.2814
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Mahawilachchiya",
+                "State": "128",
+                "cases": "20",
+                "latitude": "8.2814",
+                "longitude": "80.4588"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.495957,
+                    8.540822
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Medawachchiya",
+                "State": "129",
+                "cases": "63",
+                "latitude": "8.540822",
+                "longitude": "80.495957"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4667,
+                    8.2667
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Nachchaduwa",
+                "State": "130",
+                "cases": "4",
+                "latitude": "8.2667",
+                "longitude": "80.4667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20823,
+                    8.266802
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Nochchiyagama",
+                "State": "131",
+                "cases": "71",
+                "latitude": "8.266802",
+                "longitude": "80.20823"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5476,
+                    8.5595
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Padaviya",
+                "State": "132",
+                "cases": "11",
+                "latitude": "8.5595",
+                "longitude": "80.5476"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1333,
+                    7.4667
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Palagala",
+                "State": "133",
+                "cases": "34",
+                "latitude": "7.4667",
+                "longitude": "80.1333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.71918,
+                    8.053538
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Palugaswewa",
+                "State": "134",
+                "cases": "2",
+                "latitude": "8.053538",
+                "longitude": "80.71918"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2833,
+                    8.1708
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Rajanganaya",
+                "State": "135",
+                "cases": "24",
+                "latitude": "8.1708",
+                "longitude": "80.2833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5,
+                    8.4333
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Anuradhapura",
+                "MOH/QC/Camp": "Rambewa",
+                "State": "136",
+                "cases": "41",
+                "latitude": "8.4333",
+                "longitude": "80.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7883,
+                    7.7244
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Polonnaruwa",
+                "MOH/QC/Camp": "Elahera",
+                "State": "137",
+                "cases": "54",
+                "latitude": "7.7244",
+                "longitude": "80.7883"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.948686,
+                    8.036505
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Polonnaruwa",
+                "MOH/QC/Camp": "Hingurakgoda",
+                "State": "138",
+                "cases": "234",
+                "latitude": "8.036505",
+                "longitude": "80.948686"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1833,
+                    7.8167
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Polonnaruwa",
+                "MOH/QC/Camp": "Medirigiriya",
+                "State": "139",
+                "cases": "37",
+                "latitude": "7.8167",
+                "longitude": "80.1833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0333,
+                    6.3167
+                ]
+            },
+            "properties": {
+                "Province": "North Central",
+                "District": "Polonnaruwa",
+                "MOH/QC/Camp": "Welikanda",
+                "State": "140",
+                "cases": "102",
+                "latitude": "6.3167",
+                "longitude": "80.0333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.990898,
+                    6.828867
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Bandarawela",
+                "State": "141",
+                "cases": "246",
+                "latitude": "6.828867",
+                "longitude": "80.990898"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.050937,
+                    6.874485
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Ella",
+                "State": "142",
+                "cases": "160",
+                "latitude": "6.874485",
+                "longitude": "81.050937"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.05,
+                    7.4
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Girandurukotte",
+                "State": "143",
+                "cases": "168",
+                "latitude": "7.4",
+                "longitude": "81.05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.884385,
+                    6.77061
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Haldummulla",
+                "State": "144",
+                "cases": "88",
+                "latitude": "6.77061",
+                "longitude": "80.884385"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.199335,
+                    7.041299
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Lunugala",
+                "State": "145",
+                "cases": "34",
+                "latitude": "7.041299",
+                "longitude": "81.199335"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.1167,
+                    7.2444
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Mahiyanganaya",
+                "State": "146",
+                "cases": "496",
+                "latitude": "7.2444",
+                "longitude": "81.1167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.151166,
+                    6.935017
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Passara",
+                "State": "147",
+                "cases": "188",
+                "latitude": "6.935017",
+                "longitude": "81.151166"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.05,
+                    7.0167
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Soranathota",
+                "State": "148",
+                "cases": "48",
+                "latitude": "7.0167",
+                "longitude": "81.05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.913222,
+                    6.906059
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Badulla",
+                "MOH/QC/Camp": "Welimada",
+                "State": "149",
+                "cases": "310",
+                "latitude": "6.906059",
+                "longitude": "80.913222"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.234346,
+                    6.893287
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Moneragala",
+                "MOH/QC/Camp": "Badalkumbura",
+                "State": "150",
+                "cases": "150",
+                "latitude": "6.893287",
+                "longitude": "81.234346"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2333,
+                    6.75
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Moneragala",
+                "MOH/QC/Camp": "Buttala",
+                "State": "151",
+                "cases": "224",
+                "latitude": "6.75",
+                "longitude": "81.2333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.3333,
+                    6.4167
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Moneragala",
+                "MOH/QC/Camp": "Kataragama",
+                "State": "152",
+                "cases": "98",
+                "latitude": "6.4167",
+                "longitude": "81.3333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.918204,
+                    7.047667
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Moneragala",
+                "MOH/QC/Camp": "Madulla",
+                "State": "153",
+                "cases": "94",
+                "latitude": "7.047667",
+                "longitude": "80.918204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.552112,
+                    6.910581
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Moneragala",
+                "MOH/QC/Camp": "Siyambalanduwa",
+                "State": "154",
+                "cases": "223",
+                "latitude": "6.910581",
+                "longitude": "81.552112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.106295,
+                    6.719458
+                ]
+            },
+            "properties": {
+                "Province": "Uva",
+                "District": "Moneragala",
+                "MOH/QC/Camp": "Wellawaya",
+                "State": "155",
+                "cases": "424",
+                "latitude": "6.719458",
+                "longitude": "81.106295"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3032,
+                    6.1845
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Akmeemana",
+                "State": "156",
+                "cases": "877",
+                "latitude": "6.1845",
+                "longitude": "80.3032"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.96413,
+                    6.77533
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Ambalangoda",
+                "State": "157",
+                "cases": "251",
+                "latitude": "6.77533",
+                "longitude": "79.96413"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.201841,
+                    6.165975
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Baddegama",
+                "State": "158",
+                "cases": "303",
+                "latitude": "6.165975",
+                "longitude": "80.201841"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.036054,
+                    6.269254
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Balapitiya",
+                "State": "159",
+                "cases": "450",
+                "latitude": "6.269254",
+                "longitude": "80.036054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.171923,
+                    6.300214
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Elpitiya",
+                "State": "160",
+                "cases": "547",
+                "latitude": "6.300214",
+                "longitude": "80.171923"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2,
+                    6.2233
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Gonapinuwala",
+                "State": "161",
+                "cases": "78",
+                "latitude": "6.2233",
+                "longitude": "80.2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.326,
+                    6.0043
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Habaraduwa",
+                "State": "162",
+                "cases": "773",
+                "latitude": "6.0043",
+                "longitude": "80.326"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.113201,
+                    6.139535
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Hikkaduwa",
+                "State": "163",
+                "cases": "708",
+                "latitude": "6.139535",
+                "longitude": "80.113201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4354,
+                    6.7361
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Imaduwa",
+                "State": "164",
+                "cases": "264",
+                "latitude": "6.7361",
+                "longitude": "80.4354"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0257,
+                    6.4681
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Induruwa",
+                "State": "165",
+                "cases": "1883",
+                "latitude": "6.4681",
+                "longitude": "80.0257"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.072462,
+                    6.260467
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Karandeniya",
+                "State": "166",
+                "cases": "247",
+                "latitude": "6.260467",
+                "longitude": "80.072462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.363267,
+                    6.37393
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Neluwa",
+                "State": "167",
+                "cases": "131",
+                "latitude": "6.37393",
+                "longitude": "80.363267"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4833,
+                    6.7333
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Rathgama",
+                "State": "168",
+                "cases": "350",
+                "latitude": "6.7333",
+                "longitude": "80.4833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.338951,
+                    6.188469
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Udugama",
+                "State": "169",
+                "cases": "221",
+                "latitude": "6.188469",
+                "longitude": "80.338951"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.349195,
+                    6.109027
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Galle",
+                "MOH/QC/Camp": "Yakkalamulla",
+                "State": "170",
+                "cases": "126",
+                "latitude": "6.109027",
+                "longitude": "80.349195"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.025983,
+                    6.114494
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Hambanthota",
+                "MOH/QC/Camp": "Ambalantota",
+                "State": "171",
+                "cases": "473",
+                "latitude": "6.114494",
+                "longitude": "81.025983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.734343,
+                    6.048637
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Hambanthota",
+                "MOH/QC/Camp": "Beliatta",
+                "State": "172",
+                "cases": "200",
+                "latitude": "6.048637",
+                "longitude": "80.734343"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6972,
+                    6.2667
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Hambanthota",
+                "MOH/QC/Camp": "Katuwana",
+                "State": "173",
+                "cases": "79",
+                "latitude": "6.2667",
+                "longitude": "80.6972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7,
+                    6.15
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Hambanthota",
+                "MOH/QC/Camp": "Walasmulla",
+                "State": "174",
+                "cases": "148",
+                "latitude": "6.15",
+                "longitude": "80.7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7865,
+                    6.135
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Hambanthota",
+                "MOH/QC/Camp": "Weeraketiya",
+                "State": "175",
+                "cases": "233",
+                "latitude": "6.135",
+                "longitude": "80.7865"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4808,
+                    6.0964
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Akuressa",
+                "State": "176",
+                "cases": "244",
+                "latitude": "6.0964",
+                "longitude": "80.4808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.497879,
+                    6.069724
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Athuraliya",
+                "State": "177",
+                "cases": "177",
+                "latitude": "6.069724",
+                "longitude": "80.497879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.82402,
+                    7.334701
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Hakmana",
+                "State": "178",
+                "cases": "131",
+                "latitude": "7.334701",
+                "longitude": "80.82402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.56473,
+                    6.069847
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Kamburupitiya",
+                "State": "179",
+                "cases": "194",
+                "latitude": "6.069847",
+                "longitude": "80.56473"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.533957,
+                    6.292393
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Kotapola",
+                "State": "180",
+                "cases": "167",
+                "latitude": "6.292393",
+                "longitude": "80.533957"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4833,
+                    6.25
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Morawaka",
+                "State": "181",
+                "cases": "204",
+                "latitude": "6.25",
+                "longitude": "80.4833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.616175,
+                    6.242998
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Pasgoda",
+                "State": "182",
+                "cases": "65",
+                "latitude": "6.242998",
+                "longitude": "80.616175"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.561851,
+                    6.011602
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Thihagoda",
+                "State": "183",
+                "cases": "158",
+                "latitude": "6.011602",
+                "longitude": "80.561851"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4167,
+                    5.9667
+                ]
+            },
+            "properties": {
+                "Province": "Southern",
+                "District": "Matara",
+                "MOH/QC/Camp": "Weligama",
+                "State": "184",
+                "cases": "704",
+                "latitude": "5.9667",
+                "longitude": "80.4167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.68202,
+                    7.29754
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Ampara",
+                "State": "185",
+                "cases": "672",
+                "latitude": "7.29754",
+                "longitude": "81.68202"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.41306,
+                    8.31223
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Anuradhapura",
+                "State": "186",
+                "cases": "1848",
+                "latitude": "8.31223",
+                "longitude": "80.41306"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.0557,
+                    6.9895
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Badulla",
+                "State": "187",
+                "cases": "3283",
+                "latitude": "6.9895",
+                "longitude": "81.0557"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6924,
+                    7.7102
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Batticoloa",
+                "State": "188",
+                "cases": "1000",
+                "latitude": "7.7102",
+                "longitude": "81.6924"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84778,
+                    6.93194
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Colombo",
+                "State": "189",
+                "cases": "49865",
+                "latitude": "6.93194",
+                "longitude": "79.84778"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.217,
+                    6.0367
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Galle",
+                "State": "190",
+                "cases": "9112",
+                "latitude": "6.0367",
+                "longitude": "80.217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9925,
+                    7.0897
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Gampaha",
+                "State": "191",
+                "cases": "32551",
+                "latitude": "7.0897",
+                "longitude": "79.9925"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.101074,
+                    6.124593
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Hambanthota",
+                "State": "192",
+                "cases": "2475",
+                "latitude": "6.124593",
+                "longitude": "81.101074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.00742,
+                    9.66845
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Jaffna",
+                "State": "193",
+                "cases": "2892",
+                "latitude": "9.66845",
+                "longitude": "80.00742"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.83472,
+                    7.40902
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Kalmunai",
+                "State": "194",
+                "cases": "1597",
+                "latitude": "7.40902",
+                "longitude": "81.83472"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9593,
+                    6.5831
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Kaluthara",
+                "State": "195",
+                "cases": "17382",
+                "latitude": "6.5831",
+                "longitude": "79.9593"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6356,
+                    7.2955
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Kandy",
+                "State": "196",
+                "cases": "6853",
+                "latitude": "7.2955",
+                "longitude": "80.6356"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3436,
+                    7.2523
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Kegalle",
+                "State": "197",
+                "cases": "2467",
+                "latitude": "7.2523",
+                "longitude": "80.3436"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3982,
+                    9.3961
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Kilinochchi",
+                "State": "198",
+                "cases": "612",
+                "latitude": "9.3961",
+                "longitude": "80.3982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.3623,
+                    7.4863
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Kurunegala",
+                "State": "199",
+                "cases": "9591",
+                "latitude": "7.4863",
+                "longitude": "80.3623"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8833,
+                    8.9667
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Mannar",
+                "State": "200",
+                "cases": "411",
+                "latitude": "8.9667",
+                "longitude": "79.8833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.75,
+                    7.6667
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Matale",
+                "State": "201",
+                "cases": "4031",
+                "latitude": "7.6667",
+                "longitude": "80.75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.53528,
+                    5.94851
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Matara",
+                "State": "202",
+                "cases": "4508",
+                "latitude": "5.94851",
+                "longitude": "80.53528"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.3487,
+                    6.8714
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Moneragala",
+                "State": "203",
+                "cases": "2370",
+                "latitude": "6.8714",
+                "longitude": "81.3487"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6833,
+                    9.15
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Mullativu",
+                "State": "204",
+                "cases": "929",
+                "latitude": "9.15",
+                "longitude": "80.6833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.78286,
+                    6.97078
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Nuwaraeliya",
+                "State": "205",
+                "cases": "3802",
+                "latitude": "6.97078",
+                "longitude": "80.78286"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.00274,
+                    7.93965
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Polonnaruwa",
+                "State": "206",
+                "cases": "1085",
+                "latitude": "7.93965",
+                "longitude": "81.00274"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8283,
+                    8.0362
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Puttalam",
+                "State": "207",
+                "cases": "3433",
+                "latitude": "8.0362",
+                "longitude": "79.8283"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.39917,
+                    6.68278
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Ratnapura",
+                "State": "208",
+                "cases": "6061",
+                "latitude": "6.68278",
+                "longitude": "80.39917"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2335,
+                    8.5711
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Trincomalee",
+                "State": "209",
+                "cases": "1562",
+                "latitude": "8.5711",
+                "longitude": "81.2335"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.4971,
+                    8.7514
+                ]
+            },
+            "properties": {
+                "Province": "",
+                "District": "",
+                "MOH/QC/Camp": "Vavunia",
+                "State": "210",
+                "cases": "807",
+                "latitude": "8.7514",
+                "longitude": "80.4971"
+            }
+        }
+    ]
+}
